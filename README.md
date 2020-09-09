@@ -11,4 +11,4 @@
 ---
 
 
-### My name is Arthur Lozano and I enjoy camping, coding, and spending time outside [github](https://github.com/Arthur-Lozano)
+### My name is Arthur Lozano and I enjoy camping, coding, and spending time outside.  Check out my [github](https://github.com/Arthur-Lozano)
