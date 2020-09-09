@@ -27,4 +27,4 @@
 ### GitHub pages
 
 * Github pages are great to stylize information in a repo
-* Github pages is a great way to showcase your work because it allows you to create a website with a lot less work than is normally required.
+* Github pages are a great way to showcase your work because it allows you to create a website with a lot less work than is normally required.
