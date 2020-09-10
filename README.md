@@ -7,7 +7,7 @@
 # Reminders
 - 1. Embrace challenges 
 - 2. Be inspired by the success of others 
-- 3. Learn for **criticism**.
+- 3. Learn from **criticism**.
 ---
 
 
