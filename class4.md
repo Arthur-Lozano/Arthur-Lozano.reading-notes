@@ -32,10 +32,10 @@
 - <footer>
 - <article>
 - <ul>/<ol>
-- <figure>S
+- <figure>
 - <a>
 
-##  It is important that if a tag is opened such as footer that the tag is also closed after the text such as /footer.  This is important with a lot of html tags but does not mean **All** html tags require this.
+## It is important that if a tag is opened such as footer that the tag is also closed after the text such as /footer.  This is important with a lot of html tags but does not mean **All** html tags require this.
 ## There is also code to help older browsers understand the code
 > Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML
 - DOCTYPE can also help a webpage render correctly because it is actually able to communicate with the browser and it allows the browser to provide the best service for the specific version of HTML
