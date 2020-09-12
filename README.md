@@ -15,42 +15,16 @@
 
 
 
-# My reading notes
+- [class 1 Reading Notes](class1.md)
 
-### Mark down
-* Markdown is a great way to change the information within a repo
-* There are a lot of resources to help one improve their markdown skills (cheat sheets etc)
-* Files that use markdown language can be identified by the end of the file extension *(md)*
-* Markdown also allows quotes and images to be inserted 
+- [class 2 Reading Notes](class2.md)
 
+- [class 3 Reading Notes](class3.md)
 
-### GitHub pages
-
-* Github pages are great to stylize information in a repo
-* Github pages are a great way to showcase your work because it allows you to create a website with a lot less work than is normally required.
+- [class 4 Reading Notes](class4.md)
 
 
-# Week Two
 
-## Command Line 
 
-* The command line is also known as the terminal (text based interface to the system/OS)
-* There is no need to choose the GUI over the command line or vice versa as both can be utilized together
-* Within the terminal is the shell.  The shell is the part of the operating system that will determine how the terminal will perform or look after utilizing commands through it.
-* There are various shells available but the most common shell utilized is called (Bash) which stands for *bourne again shell* 
-> If you would like to know which shell you are using you may use a command called echo to display a system variable stating your current shell. echo is a command which is used to display messages.
 
-## Basic Navigation
-
-### There are various commands to help navigate through the terminal much like using a mouse to navigate through the GUI, I have listed some below
-
-* ls
-* pwd
-* cd
-
-##  Everything is a file 
-
-* Everything is a file under the hood of Linux (Even a keyboard)
-* Linux ignores file extensions and instead looks inside of the file to determine what type of file it is
-* Whenever a file or directory is specified on the command line it is actually a path (Directories are special types of files)
 
