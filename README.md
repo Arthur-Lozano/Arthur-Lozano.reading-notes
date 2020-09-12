@@ -23,6 +23,8 @@
 
 - [class 4 Reading Notes](class4.md)
 
+- [class 5 Reading Notes](class5.md)
+
 
 
 
