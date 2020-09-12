@@ -60,12 +60,6 @@
 
 _  The *class* attribute helps to identify several elements as opposed to one like the ID attribute
 
-> Examples of block elements are
-> '<h1>', '<p>' '<ul>', and '<li>'
-
-
->Examples of inline elements are
->'<a>, <b>, <em>, and <img>'
 
 ## The <span> element acts like
 ## an inline equivalent of the <div>
