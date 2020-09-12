@@ -26,13 +26,15 @@
 - Structure vs Presentation - HTML/CSS
 ## The new element tags make the code within HTML easier to identify as opposed to using attributes with div tags.  
 ## A html webpage has a lot of important syntax within it's structure some are listed below
-- <div> (For sectioning elements)
+
+- <div> 
 - <header>
 - <footer>
 - <article>
 - <ul>/<ol>
 - <figure>S
 - <a>
+
 ##  It is important that if a tag is opened such as footer that the tag is also closed after the text such as /footer.  This is important with a lot of html tags but does not mean **All** html tags require this.
 ## There is also code to help older browsers understand the code
 > Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML
