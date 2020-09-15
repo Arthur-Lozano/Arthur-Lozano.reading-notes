@@ -25,6 +25,12 @@
 
 - [class 5 Reading Notes](class5.md)
 
+- [class 6 Reading Notes](class6.md)
+
+- [class 7 Reading Notes](class7.md)
+
+
+
 
 
 
