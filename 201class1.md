@@ -1,5 +1,5 @@
 # Code Fellows 201 week 1
-
+----
 ### Explains the Structure of the book and how the page color and layout is setup in manner that specifically helps absorb the information.
 
 ### The book is divided into three areas (HTML, CSS, and practical)
@@ -22,16 +22,16 @@
 ### Tags tell you something about the information located within them
 ### Main tags that make up the HTML structure (HTML, BODY, HEAD, TITLE)
 ### Information included in title tag will be displayed in browser’s hyperlink
-### HTML web pages are text documents
-### HTML tags sit in angled brackets
-### Opening tags can carry attributes, which tell us more about the content of that element.  Attributes require a name and a value.
+#### HTML web pages are text documents
+##### HTML tags sit in angled brackets
+###### Opening tags can carry attributes, which tell us more about the content of that element.  Attributes require a name and a value.
 
 # Extra Markup
 ### Different version of html
 *HTML 4 (Released 1997)
 *HTML 1.0 (Released 2000)
 *HTML 5 (Released 200)
-
+---
 ### !DOCTYPE html helps to tell the browser which version of HTML a programmer intends to use. 
 ### `<!-- words -->` (within brackets will comment out the code)
 
@@ -73,3 +73,17 @@
 ### Factor in a consumers key motivations as to why they are visiting your site and try to narrow down the best way to provide that content.  (Is this a necessity or pleasure?)
 
 ## After finding out what is necessary for the site it is time to create a sitemap that will not only help users navigate the website but also improve SEO 
+
+# JS Chapter 1: “The ABC of Programming” (pp.11-52)
+
+### A script is a series of functions that a computer can follow to achieve a goal.
+### Javascript gives a website it's dynamic functionality 
+### Good practice when writing a script is to first write what the intended goal is out on paper and then list each task that will be necessary to complete it
+
+# Three steps to script design
+*Define the goal 
+*Design the script
+*Code each step
+
+## Ensure instructions let the computer solve the task programaticaly as it does not read instructions as a human would 
+>To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
