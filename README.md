@@ -31,7 +31,11 @@
 
 - [class 8 Reading Notes](class8.md)
 
+# 201 Notes
+
 - [201WK1](201class1.md)
+
+- [class 2 Reading Notes](class-02.md)
 
 
 
