@@ -157,7 +157,7 @@ There are various selectors so i'll cover a few below
 
 # Statements
 
-* If statements evaluates or checks a condition.
+* IF statements evaluates or checks a condition.
 * IF - ELSE  statements checks a condition
 
 # Switch Statements
@@ -165,5 +165,6 @@ There are various selectors so i'll cover a few below
 > A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
 
 * If the switch value does not match any of the values within its brackets then the default value is given.
-* Instead of multiple if statements, the code is ran if a match is found.  And there is always a default to fall back on.
+* Instead of multiple if statements, the code is ran if a match is found.  And there is always a default to fall back on
+
 
