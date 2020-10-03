@@ -66,9 +66,44 @@
 - Padding 
 > Padding is the space between the border of a box and any content contained within it. Adding padding can increase the readability of its contents.
 
-# Decisions and loops
-
 * Labeling form control
 * Grouping form elements
 * HTML5: Form validation
 * HTML5: DATE INPUT
+
+# Decisions and loops
+
+
+_ (If) statements evaluate or checks a condition, if true the code in the code block is executed.
+- (If Else) Checks a condition.  If the condition evaluates as true the first code block is executed if it is false the second code block is executed.
+
+- Switch statements
+> A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
+
+## Data Type
+- string (text)
+- number (Number)
+- Boolean (true or false)
+- null (empty)
+- undefined (Variable has been declared but not assigned a value)
+- NaN is a value that is counted as a number (usually seen when a number is expected, but is not returned)
+
+# Falsy Values
+
+> Falsy values are treated as if they are fa 1 se. The table to the left shows a hi ghScore variable with a series of va lues, all of which are falsy. Falsy values can also be treated as the number 0 .
+
+> Truthy values are treated as if they are true. Almost everything that is not in the falsy table can be treated as if it were true. Truthy va lues can also be treated as the number 1.
+
+## Loops
+
+- Initialization
+- condition
+- update
+
+* For loops 
+* While loops
+* Do while loops
+
+### For loops are usually used to loop through the items as an array.
+### While loop is used as long as the condition is met
+### Do while  the statement in the code block comes before the condition. 
