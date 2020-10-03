@@ -36,6 +36,8 @@
 - [201WK1](201class1.md)
 
 - [class 2 Reading Notes](class-02.md)
+- [class 3 Reading Notes](class-03.md)
+
 
 
 
