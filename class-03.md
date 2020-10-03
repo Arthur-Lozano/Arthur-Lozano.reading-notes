@@ -71,8 +71,16 @@
 * HTML5: Form validation
 * HTML5: DATE INPUT
 
-# Decisions and loops
+# Arrays
 
+> You create an array and give it a name just like you would any other variable (using the var keyword followed by the name of the array).
+
+- Each item is automatically given a number called an index, this helps to access a specific item within an index.
+- Index items start with 0 and not 1
+- Each array has a property called length, which holds the number of items in an array
+
+
+# Statements
 
 _ (If) statements evaluate or checks a condition, if true the code in the code block is executed.
 - (If Else) Checks a condition.  If the condition evaluates as true the first code block is executed if it is false the second code block is executed.
