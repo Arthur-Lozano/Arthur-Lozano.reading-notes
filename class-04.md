@@ -87,11 +87,14 @@
 
 # Functions, Methods, and Objects
 
-*
-*
-*
-*
-*
+* Functions and Methods
+- Consist of a series of statements that have been grouped together in order to perfrom a specific task
+- A method is the same as a function, except methods are created inside (and are part of an object)
+* Objects
+- Objects are used to create models of the world around us using data. (Objects are made of properties and methods)
+- A method is part of an object
+* Built-In Objects - The browser comes with a set of objects that act like a tooklkit for creating interactive web pages.  
+
 
 # Pair Programming
 
@@ -103,5 +106,41 @@
 * Speaking: using the correct words to communicate an idea
 * Reading: understanding what written language intends to convey
 * Writing: producing from scratch a meaningful 
+
+- When you ask a function to perform a task later you need to CALL the function.
+- Some functions need to be provided information in order to perform a certain task (which is provided within parameters).  Better explained, pieces of information that are passed to a function are called parameters
+- When you write a function and expect a response it is known as a (return value)
+- When a function is called by it's name the code block will run
+
+* Anonymous functions, which do not have a name and means they cannot be called.  However, they are called as soon as the interpreter comes across them.
+
+### Creating a function 
+
+- Give it a name
+- Write the statements needed to achieve it's task within the curly braces
+
+* After declaring a function it can be executed with one line of code (the function named followed by parentheses)
+* The same function can be called as many times within the same block of javascript code
+
+## Declraing functions that need information
+
+- Sometimes functions need specific information to perform its tasks and in such situation we need to give it parameters.  Inside the function the parameters work like variables.
+> Inside the function those words act like variable names
+*  When designing a script it's important to note what information the function will require in order to perform it's task
+- Functions can use parameter names within its code block as a variable will be used
+
+# Calling a function with parameters
+
+- Specify the values it should use in the parentheses that follow its name.
+- These values are called arguments, and they can be provided as values or variables
+
+## Actual values do not need to be specified when calling a function, variables can be used in their place
+
+> Note the difference between parameters and arguments: Function parameters are the names listed in the function's definition. Function arguments are the real values passed to the function. Parameters are initialized to the values of the arguments supplied.
+
+* Important to note that intrepreter leaves the function when return is used
+
+# Functions can get more than one value using an array
+
 
 
