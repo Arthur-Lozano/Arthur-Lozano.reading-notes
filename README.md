@@ -43,6 +43,9 @@
 
 - [class 5 Reading Notes](class-05.md)
 
+- [class 6 Reading Notes](class-06.md)
+
+
 
 
 
