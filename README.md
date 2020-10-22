@@ -47,6 +47,9 @@
 
 - [class 7 Reading Notes](class-07.md)
 
+- [class 8 Reading Notes](class-08.md)
+
+
 
 
 
