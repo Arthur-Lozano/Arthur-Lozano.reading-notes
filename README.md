@@ -51,6 +51,11 @@
 
 - [class 9 Reading Notes](class-09.md)
 
+- [class 10 Reading Notes](class-10.md)
+
+- [class 11 Reading Notes](class-11.md)
+
+- [class 12 Reading Notes](class-12.md)
 
 
 
