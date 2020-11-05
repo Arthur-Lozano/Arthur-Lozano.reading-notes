@@ -102,3 +102,9 @@ Methods to set different paths for objects.
 
 - measureText()
 
+ref: https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/
+ref: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
+ref: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+ref: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
+ref: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text
+
