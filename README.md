@@ -59,6 +59,9 @@
 
 - [class 13 Reading Notes](class-13.md)
 
+- [class 14 Reading Notes](class-14.md)
+
+
 
 
 
