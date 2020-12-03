@@ -9,11 +9,18 @@
 - 2. Be inspired by the success of others 
 - 3. Learn from **criticism**.
 ---
-
+Include a level-1 heading titled Reading Notes
+Include a description of what this web site is about
+Include a level-2 heading for each course, ie:
+Code 102 - Intro to Software Development
+Code 201 - Foundations of Software Development
+Code 301 - Intermediate Software Development
+Code 401 - Advanced Software Development
 
 ### My name is Arthur Lozano and I enjoy camping, coding, and spending time outside.  Check out my [github](https://github.com/Arthur-Lozano)
 
 
+## Code 102 - Intro to Software Development
 
 - [class 1 Reading Notes](class1.md)
 
@@ -31,7 +38,7 @@
 
 - [class 8 Reading Notes](class8.md)
 
-# 201 Notes
+## Code 201 - Foundations of Software Development
 
 - [201WK1](201class1.md)
 
@@ -62,6 +69,12 @@
 - [class 14 Reading Notes](class-14.md)
 
 - [class 14b Reading Notes](class-14b.md)
+
+## Code 301 - Intermediate Software Development
+
+- [301WK1](class-301-reading1.md)
+
+
 
 
 
