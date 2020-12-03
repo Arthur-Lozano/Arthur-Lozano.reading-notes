@@ -5,9 +5,9 @@
 ---
 ## Growth mind set is the ability to **not** let anything limit your ability to keep growing and learing
 # Reminders
-- 1. Embrace challenges 
-- 2. Be inspired by the success of others 
-- 3. Learn from **criticism**.
+* 1. Embrace challenges 
+* 2. Be inspired by the success of others 
+* 3. Learn from **criticism**.
 ---
 Include a level-1 heading titled Reading Notes
 Include a description of what this web site is about
