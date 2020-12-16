@@ -73,8 +73,13 @@ Code 401 - Advanced Software Development
 ## Code 301 - Intermediate Software Development
 
 - [301WK1](class-301-reading1.md)
+
 - [301WK1](class-301-reading2.md)
+
 - [301WK2](class-301-reading3.md)
+
+- [301WK2](class-301-reading4.md)
+
 
 
 
