@@ -80,6 +80,9 @@ Code 401 - Advanced Software Development
 
 - [301WK2](class-301-reading4.md)
 
+- [301WK3](class-301-reading5.md)
+
+
 
 
 
