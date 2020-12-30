@@ -27,10 +27,14 @@
 
 > If you look at the contents of the test directory, you’ll notice a folder entitled node_modules. This is where npm has saved lodash and any libraries that lodash depends on. The node_modules folder shouldn’t be checked in to version control, and can, in fact, be re-created at any time by running npm install from within the project’s root.
 
-
 > In addition to being the package manager for JavaScript, npm is also the world’s largest software registry. There are over 1,000,000 packages of JavaScript code available to download, with billions of downloads per week. Let’s take a quick look at how we would use npm to install a package.
 
+- Each file, whose code is collectively related, is called a module
+
+- 
 
 
+
+* https://www.sitepoint.com/build-a-simple-web-server-with-node-js/#:~:text=The%20tech%20community%20raves%20about,handling%20requests%20over%20the%20internet.
 
 * Reference https://www.sitepoint.com/an-introduction-to-node-js/
