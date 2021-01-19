@@ -94,6 +94,9 @@ Code 401 - Advanced Software Development
 
 - [301-Reading 11](class-301-reading11.md)
 
+- [301-Reading 12](class-301-reading12.md)
+
+
 
 
 
