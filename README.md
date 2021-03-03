@@ -99,7 +99,9 @@
 
 - [401-Reading 02](401-class-02.md)
 
-- [401-Reading 02](401-class-03.md)
+- [401-Reading 03](401-class-03.md)
+
+- [401-Reading 04](401-class-04.md)
 
 
 
