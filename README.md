@@ -105,6 +105,9 @@
 
 - [401-Reading 05](401-class-05.md)
 
+- [401-Reading 06](401-class-06.md)
+
+
 
 
 
