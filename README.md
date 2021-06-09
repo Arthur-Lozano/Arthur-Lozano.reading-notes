@@ -143,6 +143,20 @@
 
 - [401-Reading 25](401-class-25.md)
 
+- [401-Reading 26](401-class-26.md)
+
+- [401-Reading 27](401-class-27.md)
+
+- [401-Reading 28](401-class-28.md)
+
+- [401-Reading 29](401-class-29.md)
+
+- [401-Reading 30](401-class-30.md)
+
+- [401-Reading 31](401-class-31.md)
+
+
+
 
 
 
