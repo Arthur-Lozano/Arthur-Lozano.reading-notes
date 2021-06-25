@@ -155,6 +155,21 @@
 
 - [401-Reading 31](401-class-31.md)
 
+- [401-Reading 32](401-class-31.md)
+
+- [401-Reading 33](401-class-31.md)
+
+- [401-Reading 34](401-class-31.md)
+
+- [401-Reading 35](401-class-31.md)
+
+- [401-Reading 36](401-class-31.md)
+
+- [401-Reading 37](401-class-31.md)
+
+- [401-Reading 38](401-class-31.md)
+
+
 
 
 
