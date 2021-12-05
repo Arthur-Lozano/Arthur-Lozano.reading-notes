@@ -93,7 +93,7 @@
 
 - [301-Reading 15](class-301-reading15.md)
 
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development Javascript
 
 - [401-Reading 01](401-class-01.md)
 
@@ -171,9 +171,82 @@
 
 
 
+## Code 401 - Advanced Software Development Python
 
 
+- [401-Reading 01](401-class-01.md)
 
+- [401-Reading 02](401-class-02.md)
+
+- [401-Reading 03](401-class-03.md)
+
+- [401-Reading 04](401-class-04.md)
+
+- [401-Reading 05](401-class-05.md)
+
+- [401-Reading 06](401-class-06.md)
+
+- [401-Reading 07](401-class-07.md)
+
+- [401-Reading 08](401-class-08.md)
+
+- [401-Reading 09](401-class-09.md)
+
+- [401-Reading 11](401-class-11.md)
+
+- [401-Reading 12](401-class-12.md)
+
+- [401-Reading 13](401-class-13.md)
+
+- [401-Reading 14](401-class-14.md)
+
+- [401-Reading 15](401-class-15.md)
+
+- [401-Reading 16](401-class-16.md)
+
+- [401-Reading 17](401-class-17.md)
+
+- [401-Reading 18](401-class-18.md)
+
+- [401-Reading 19](401-class-19.md)
+
+- [401-Reading 20](401-class-20.md)
+
+- [401-Reading 21](401-class-21.md)
+
+- [401-Reading 22](401-class-22.md)
+
+- [401-Reading 23](401-class-23.md)
+
+- [401-Reading 24](401-class-24.md)
+
+- [401-Reading 25](401-class-25.md)
+
+- [401-Reading 26](401-class-26.md)
+
+- [401-Reading 27](401-class-27.md)
+
+- [401-Reading 28](401-class-28.md)
+
+- [401-Reading 29](401-class-29.md)
+
+- [401-Reading 30](401-class-30.md)
+
+- [401-Reading 31](401-class-31.md)
+
+- [401-Reading 32](401-class-32.md)
+
+- [401-Reading 33](401-class-33.md)
+
+- [401-Reading 34](401-class-34.md)
+
+- [401-Reading 35](401-class-35.md)
+
+- [401-Reading 36](401-class-36.md)
+
+- [401-Reading 37](401-class-37.md)
+
+- [401-Reading 38](401-class-38.md)
 
 
 
