@@ -177,7 +177,7 @@
 
 - [401-Reading 01B](/Code401-PythonAdvancedSoftwareDevelopment/rdweek1.md)
 
-- [401-Reading 02](401-class-02.md)
+- [401-Reading 02](/Code401-PythonAdvancedSoftwareDevelopment/readingWk2.md)
 
 - [401-Reading 03](401-class-03.md)
 
