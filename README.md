@@ -173,8 +173,9 @@
 
 ## Code 401 - Advanced Software Development Python
 
+- [401-Reading 01A](/Code401-PythonAdvancedSoftwareDevelopment/mindset.md)
 
-- [401-Reading 01](/Code401-PythonAdvancedSoftwareDevelopment/rdweek1.md)
+- [401-Reading 01B](/Code401-PythonAdvancedSoftwareDevelopment/rdweek1.md)
 
 - [401-Reading 02](401-class-02.md)
 
