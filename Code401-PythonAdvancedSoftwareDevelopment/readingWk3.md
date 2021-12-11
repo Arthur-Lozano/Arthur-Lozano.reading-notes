@@ -27,7 +27,6 @@
 * The (try and except) Block is used for handling exceptions
 * With Python using the else statement one can instruct a program to execute a certain block of code only in the absence of exceptions.
 
-
 ### References
 
 * https://realpython.com/read-write-files-python/
