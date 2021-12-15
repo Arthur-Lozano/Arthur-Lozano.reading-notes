@@ -179,7 +179,7 @@
 
 - [401-Reading 02](/Code401-PythonAdvancedSoftwareDevelopment/readingWk2.md)
 
-- [401-Reading 03](401-class-03.md)
+- [401-Reading 03](/Code401-PythonAdvancedSoftwareDevelopment/readingWk3.md)
 
 - [401-Reading 04](401-class-04.md)
 
