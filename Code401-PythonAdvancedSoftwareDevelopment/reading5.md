@@ -7,6 +7,7 @@
 - A link list is a sequence of nodes
 - Each node references the next node in the link
 
+
 ## There are two types of Linked Lists
 - Node - Individual items/links that are housed in a linked list.  Each node will contain data pertaining to that nodes functionality.
 
