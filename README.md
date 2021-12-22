@@ -185,7 +185,7 @@
 
 - [401-Reading 05](/Code401-PythonAdvancedSoftwareDevelopment/reading5.md)
 
-- [401-Reading 06](/Code401-PythonAdvancedSoftwareDevelopment/reading6.md)
+- [401-Reading 06](./Code401-PythonAdvancedSoftwareDevelopment/reading6.md)
 
 - [401-Reading 07](401-class-07.md)
 
