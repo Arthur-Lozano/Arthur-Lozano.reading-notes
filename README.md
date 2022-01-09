@@ -189,12 +189,13 @@
 
 - [401-Reading 07](/Code401-PythonAdvancedSoftwareDevelopment/reading7.md)
 
-
 - [401-Reading 08](/Code401-PythonAdvancedSoftwareDevelopment/class8.md)
 
 - [401-Reading 08](/Code401-PythonAdvancedSoftwareDevelopment/class9.md)
 
 - [401-Reading 09](/Code401-PythonAdvancedSoftwareDevelopment/class9.md)
+
+- [401-Reading 10](/Code401-PythonAdvancedSoftwareDevelopment/class10.md)
 
 - [401-Reading 11](401-class-11.md)
 
