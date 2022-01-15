@@ -199,7 +199,7 @@
 
 - [401-Reading 11](/Code401-PythonAdvancedSoftwareDevelopment/class11.md)
 
-- [401-Reading 12](/Code401-PythonAdvancedSoftwareDevelopment/class12.md)
+- [401-Reading 12](/Code401-PythonAdvancedSoftwareDevelopment/reading12.md)
 
 - [401-Reading 13](401-class-13.md)
 
