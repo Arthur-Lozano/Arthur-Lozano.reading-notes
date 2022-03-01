@@ -225,7 +225,7 @@
 
 - [401-Reading 25](/Code401-PythonAdvancedSoftwareDevelopment/class25.md)
 
-- [401-Reading 25](401-class-25.md)
+- [401-Reading 27](/Code401-PythonAdvancedSoftwareDevelopment/class27.md)
 
 - [401-Reading 26](401-class-26.md)
 
